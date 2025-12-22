@@ -1,5 +1,6 @@
 Testing some checkpont checking
 
-
+.exe
+.reg.json
 
 more tests
